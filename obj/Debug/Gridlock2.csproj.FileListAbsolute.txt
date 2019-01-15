@@ -1,0 +1,16 @@
+C:\Users\oolba\source\repos\Gridlock2\Gridlock2\bin\Debug\Gridlock2.exe.config
+C:\Users\oolba\source\repos\Gridlock2\Gridlock2\bin\Debug\Gridlock2.exe
+C:\Users\oolba\source\repos\Gridlock2\Gridlock2\bin\Debug\Gridlock2.pdb
+C:\Users\oolba\source\repos\Gridlock2\Gridlock2\obj\Debug\Gridlock2.csprojAssemblyReference.cache
+C:\Users\oolba\source\repos\Gridlock2\Gridlock2\obj\Debug\MainWindow.g.cs
+C:\Users\oolba\source\repos\Gridlock2\Gridlock2\obj\Debug\App.g.cs
+C:\Users\oolba\source\repos\Gridlock2\Gridlock2\obj\Debug\Gridlock2_MarkupCompile.cache
+C:\Users\oolba\source\repos\Gridlock2\Gridlock2\obj\Debug\Gridlock2_MarkupCompile.lref
+C:\Users\oolba\source\repos\Gridlock2\Gridlock2\obj\Debug\App.baml
+C:\Users\oolba\source\repos\Gridlock2\Gridlock2\obj\Debug\MainWindow.baml
+C:\Users\oolba\source\repos\Gridlock2\Gridlock2\obj\Debug\Gridlock2.g.resources
+C:\Users\oolba\source\repos\Gridlock2\Gridlock2\obj\Debug\Gridlock2.Properties.Resources.resources
+C:\Users\oolba\source\repos\Gridlock2\Gridlock2\obj\Debug\Gridlock2.csproj.GenerateResource.cache
+C:\Users\oolba\source\repos\Gridlock2\Gridlock2\obj\Debug\Gridlock2.csproj.CoreCompileInputs.cache
+C:\Users\oolba\source\repos\Gridlock2\Gridlock2\obj\Debug\Gridlock2.exe
+C:\Users\oolba\source\repos\Gridlock2\Gridlock2\obj\Debug\Gridlock2.pdb
